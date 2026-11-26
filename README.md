@@ -11,13 +11,6 @@ Soy Rodrigo, **ingeniero en desarrollo de software** y **desarrollador Full Stac
 - 🎓 Ingeniero de ejecución en Informática (**Duoc UC**) y certificado en **React JS** (Coderhouse).
 - 🌱 Me considero responsable, metódico y siempre con ganas de seguir aprendiendo.
 
-## Redes
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/rodrigo-raggi-palma-67537158/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/hrodrico/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
-</p>
-
 ## Tecnologías
 
 <table>
@@ -55,6 +48,13 @@ Soy Rodrigo, **ingeniero en desarrollo de software** y **desarrollador Full Stac
 
 <p align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Hrodrico.Hrodrico" alt="Contador de visitas" />
+</p>
+
+## Redes
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rodrigo-raggi-palma-67537158/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/hrodrico/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
 </p>
 
 ## ¡Game Over!
